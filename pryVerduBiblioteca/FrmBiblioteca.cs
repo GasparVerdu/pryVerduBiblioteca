@@ -111,7 +111,6 @@ namespace pryVerduBiblioteca
             else
             {
                 MessageBox.Show("No hay mas libros para mostrar");
-                
                 NumPag = 20;
             }
         }

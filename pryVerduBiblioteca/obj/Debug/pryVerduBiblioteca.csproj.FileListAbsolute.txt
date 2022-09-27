@@ -1,0 +1,11 @@
+C:\Users\gaspa\OneDrive\Escritorio\pryVerduBiblioteca\pryVerduBiblioteca\pryVerduBiblioteca\bin\Debug\pryVerduBiblioteca.exe.config
+C:\Users\gaspa\OneDrive\Escritorio\pryVerduBiblioteca\pryVerduBiblioteca\pryVerduBiblioteca\bin\Debug\pryVerduBiblioteca.exe
+C:\Users\gaspa\OneDrive\Escritorio\pryVerduBiblioteca\pryVerduBiblioteca\pryVerduBiblioteca\bin\Debug\pryVerduBiblioteca.pdb
+C:\Users\gaspa\OneDrive\Escritorio\pryVerduBiblioteca\pryVerduBiblioteca\pryVerduBiblioteca\obj\Debug\pryVerduBiblioteca.csproj.AssemblyReference.cache
+C:\Users\gaspa\OneDrive\Escritorio\pryVerduBiblioteca\pryVerduBiblioteca\pryVerduBiblioteca\obj\Debug\pryVerduBiblioteca.csproj.SuggestedBindingRedirects.cache
+C:\Users\gaspa\OneDrive\Escritorio\pryVerduBiblioteca\pryVerduBiblioteca\pryVerduBiblioteca\obj\Debug\pryVerduBiblioteca.FrmBiblioteca.resources
+C:\Users\gaspa\OneDrive\Escritorio\pryVerduBiblioteca\pryVerduBiblioteca\pryVerduBiblioteca\obj\Debug\pryVerduBiblioteca.Properties.Resources.resources
+C:\Users\gaspa\OneDrive\Escritorio\pryVerduBiblioteca\pryVerduBiblioteca\pryVerduBiblioteca\obj\Debug\pryVerduBiblioteca.csproj.GenerateResource.cache
+C:\Users\gaspa\OneDrive\Escritorio\pryVerduBiblioteca\pryVerduBiblioteca\pryVerduBiblioteca\obj\Debug\pryVerduBiblioteca.csproj.CoreCompileInputs.cache
+C:\Users\gaspa\OneDrive\Escritorio\pryVerduBiblioteca\pryVerduBiblioteca\pryVerduBiblioteca\obj\Debug\pryVerduBiblioteca.exe
+C:\Users\gaspa\OneDrive\Escritorio\pryVerduBiblioteca\pryVerduBiblioteca\pryVerduBiblioteca\obj\Debug\pryVerduBiblioteca.pdb
